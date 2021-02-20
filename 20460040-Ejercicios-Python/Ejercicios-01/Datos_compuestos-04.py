@@ -23,7 +23,7 @@ def poker(carta_1,carta_2,carta_3,carta_4):
     pass
 
 print()
-print("Elija 4 números del 0 al 51. Estas serán sus cartas.")
+print("Elija 5 números del 0 al 51. Estas serán sus cartas.")
 pri = input("Primer número: ")
 seg = input("Segundo número: ")
 ter = input("Tercer número: ")
